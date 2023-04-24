@@ -1,5 +1,5 @@
 # VMware Windows Server Template Automation Process
-# Geoff Schram - Windows Team - Research - CCHMC
+# Geoff Schram
 # 10/26/2022
 # PowerShell Ver. 4 or newer (M&M Cleanup Requires Ver. 5.1)
 # Required Modules: PSWindowsUpdate,VMware.VimAutomation.Core
