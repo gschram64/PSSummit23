@@ -694,7 +694,7 @@ function Update-VMwareTemplates {
   } # end process block
   
   end {
-    
+    Write-Verbose "$($PSStyle.Foreground.Cyan)https://github.com/gschram64/PSSummit23"
   } # end end block
   
 } # end Update-VMwareTemplates
